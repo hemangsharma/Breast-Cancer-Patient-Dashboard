@@ -19,18 +19,18 @@ This **interactive Streamlit dashboard** visualizes insights from the **SEER Bre
    ```
 2. Place your dataset (breast_cancer_data.csv) in the project folder.
 3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run app.py
+    ```
 ## Dataset Information
 
-Source: SEER Breast Cancer Dataset
+**Source: SEER Breast Cancer Dataset**
 Timeframe: 2006-2010
-Key Features:
-Patient Details: Age, Race, Marital Status
-Cancer Staging: T Stage, N Stage, Grade, Tumor Size
-Treatment Response: Estrogen Status, Progesterone Status
-Survival Metrics: Survival Months, Status (Alive/Deceased)
+**Key Features:**
+- Patient Details: Age, Race, Marital Status
+- Cancer Staging: T Stage, N Stage, Grade, Tumor Size
+- Treatment Response: Estrogen Status, Progesterone Status
+- Survival Metrics: Survival Months, Status (Alive/Deceased)
 
 ## Insights & Takeaways
 
